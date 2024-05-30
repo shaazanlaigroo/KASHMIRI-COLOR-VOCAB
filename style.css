@@ -1,0 +1,35 @@
+html{
+  background-color: black;
+  text-align: center;
+}
+#title{
+  font-size: 30px;
+  color: burlywood;
+}
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.color {
+  font-weight: normal;
+}
